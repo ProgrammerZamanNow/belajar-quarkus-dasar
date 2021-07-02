@@ -88,6 +88,7 @@
         <executions>
           <execution>
             <goals>
+              <goal>prepare</goal>
               <goal>build</goal>
               <goal>generate-code</goal>
               <goal>generate-code-tests</goal>
